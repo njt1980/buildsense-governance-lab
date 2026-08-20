@@ -67,3 +67,14 @@ Explicitly out of scope for this cycle: branch protection settings on `master` (
 - Manual: temporarily edit one character of the commit-message string in a local scratch copy of AGENTS.md, confirm `check_agents_md_coupling()` fails with a clear diff, then revert.
 - `pytest apps/api/tests/ -v`, `mypy app/` (from `apps/api`) — confirm no regression.
 - `python scripts/sync_agent_rules.py --check` (repo root).
+
+---
+
+## Lab Experiment: Feature B (Bob)
+
+This section is added by simulated developer "Bob" as part of the
+BuildSense governance-lab multi-developer experiment. It represents a
+fictitious Phase 1 spec for a fictitious "Feature B", started concurrently
+with a competing "Feature A" spec from simulated developer "Alice" on a
+separate branch, to observe what happens when two ritual participants edit
+spec.md at the same time.
