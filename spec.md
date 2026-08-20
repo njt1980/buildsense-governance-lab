@@ -70,6 +70,17 @@ Explicitly out of scope for this cycle: branch protection settings on `master` (
 
 ---
 
+## Lab Experiment: Feature A (Alice)
+
+This section is added by simulated developer "Alice" as part of the
+BuildSense governance-lab multi-developer experiment. It represents a
+fictitious Phase 1 spec for a fictitious "Feature A", started concurrently
+with a competing "Feature B" spec from simulated developer "Bob" on a
+separate branch, to observe what happens when two ritual participants edit
+spec.md at the same time.
+
+---
+
 ## Lab Experiment: Feature B (Bob)
 
 This section is added by simulated developer "Bob" as part of the
