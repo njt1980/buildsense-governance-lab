@@ -78,3 +78,14 @@ fictitious Phase 1 spec for a fictitious "Feature A", started concurrently
 with a competing "Feature B" spec from simulated developer "Bob" on a
 separate branch, to observe what happens when two ritual participants edit
 spec.md at the same time.
+
+---
+
+## Lab Experiment: Feature B (Bob)
+
+This section is added by simulated developer "Bob" as part of the
+BuildSense governance-lab multi-developer experiment. It represents a
+fictitious Phase 1 spec for a fictitious "Feature B", started concurrently
+with a competing "Feature A" spec from simulated developer "Alice" on a
+separate branch, to observe what happens when two ritual participants edit
+spec.md at the same time.
